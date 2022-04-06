@@ -7,3 +7,4 @@ Perubahan Database = Untuk mengamati perubahan data, Anda akan menggunakan Flow 
 Repositori = Class repositori memisahkan akses ke beberapa sumber data. Repositori bukan bagian dari library. Repositori mengelola kueri dan memungkinkan Anda menggunakan beberapa backend. 
   
 Flow = Flow menghasilkan nilai satu per satu (bukan sekaligus) yang dapat menghasilkan nilai dari operasi asinkron seperti permintaan jaringan, panggilan database, atau kode asinkron lainnya.
+lazy = penggunakan delegasi properti Kotlin: by lazy.
